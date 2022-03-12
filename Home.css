@@ -1,0 +1,173 @@
+
+
+.menu-bar{
+    background-image: url('/images/banner-holder.jpg');
+    color: white;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+      
+}
+
+.logo{
+    width: 90px;
+}
+
+a{
+    color: rgb(245, 243, 243);
+}
+
+button{
+    border-radius: 3px;
+    margin-top: 10px;
+    left: 10px;
+    margin-left: 15px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 80px;
+    font-size: -webkit-xxx-large;
+}
+
+.bg-door-step{
+    background: url(/images/doorstep-bg.png) center bottom no-repeat;
+    padding-bottom: 20px;
+    font-style: italic;
+}
+
+.tailor-title{
+    text-align: center;
+    margin-top: 19px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+.banner-tag-line{
+    text-align: center;
+    font-style: italic;
+}
+
+.box-size{
+    max-width: 950px;
+    margin: 0 auto;
+    text-align: center;
+    color: #707070;
+   
+}
+
+.box-size, p{
+
+    font-family: 'Lato', sans-serif;
+    line-height: 26px;
+}
+
+.mouse-img{
+    background-image: url(/images/place_order.svg);
+}
+
+.column {
+    padding: 80px 0 0;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center 10px;
+    background-size: 60px;
+}
+
+.work-title {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: #363636;
+    line-height: 26px;
+}
+
+.column > p {
+    margin: 0 40px;
+}
+.work-holder-box p {
+    font-size: 15px;
+    line-height: 24px;
+    color: #414141;
+}
+
+.kurta-img{
+    background-image: url(/images/dress_material.svg);
+    
+}
+
+.mouse-img{
+    background-image: url(/images/place_order.svg);
+}
+
+.machine-img{
+    background-image: url(/images/stitch_deliver_img.svg);
+}
+
+.pay-delivery-img{
+    background-image: url(/images/pay_on_delivery.svg);
+}
+
+.services-wrapper {
+    margin: 0 auto;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    text-align: center;
+    background: #f9f9f9;
+    height: 630px;
+    overflow: hidden;
+}
+
+.services-title {
+    display: block;
+    font-size: 28px;
+    color: #3f79bc;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 70px;
+}
+
+.sub_heading {
+    font-size: 18px;
+    margin-bottom: 47px;
+    margin-left: 490px;
+}
+
+.card-title {
+    margin-top: -14px;
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+    margin-bottom: -2px;
+}
+
+.card-img-top{
+    height: 50vh;
+}
+
+.choice-clothes-type {
+    margin-top: -32px;
+    margin-left: 550px;
+    margin-bottom: 70px;
+}
+
+.choose{
+    padding: 15px;
+    font-weight: bold;
+}
+
+.box {
+    margin-left: 80px;
+    margin-top: -20px;
+}
+
+.box-btn{
+    margin-left: 80px;
+}
