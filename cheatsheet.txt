@@ -1,0 +1,13 @@
+1 git config --global user.name Aimal
+2 git config --global user.email "Aimal.khan02676@gmail.com"
+3 gitignore
+4 git init
+5 git add .
+6 git commit -m "initial commit"
+7 git status
+8 git remote add origin
+9 git push origin master
+10 ssh-keygen -t rsa -b 4096 -C "Aimal.khan02676@gmail.com"
+11 cat /home/aimal/.ssh/id_rsa.pub
+12 $ git push origin master
+
